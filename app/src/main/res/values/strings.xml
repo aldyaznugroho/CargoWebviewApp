@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Detato Cargo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="shipment">Shipment</string>
+    <string name="booking">Booking</string>
+
+    <string name="pt_detato_mitraindo_buana">PT. Detato Mitraindo Buana</string>
+    <string name="title_activity_search_awb">SearchAwbActivity</string>
+    <string name="search_awb">Search Awb</string>
+    <string name="search_awb_hint">Search Airwaybill</string>
+    <string name="search_airwaybill">Search Airwaybill</string>
+    <string name="add_booking">Add Booking</string>
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+
+    <string name="konfirmasi_password">Konfirmasi password</string>
+    <string name="nomor_telepon">Nomor telepon</string>
+    <string name="alamat">Alamat</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="wajib_diisi">Wajib diisi!</string>
+    <string name="akun_anda">Akun Anda</string>
+    <string name="pass_not_match">Konfirmasi password tidak sesuai!</string>
+    <string name="email_or_pass_wrong">Email atau password salah!</string>
+    <string name="ulangi">Ulangi</string>
+    <string name="title_activity_add_booking">Tambah Booking</string>
+    <string name="delete_awb">Delete Awb</string>
+    <string name="tracking_history">Tracking History</string>
+    <string name="phone">Phone</string>
+    <string name="tracking">Tracking</string>
+    <string name="my_booking">My Booking</string>
+    <string name="history">History</string>
+    <string name="about_us">About Us</string>
+    <string name="help">Help</string>
+
+    <string-array name="airlines_prefix">
+        <item>160</item> <!-- Cathay prefix -->
+        <item>217</item> <!-- Thai prefix -->
+        <item>807</item> <!-- Airasia prefix -->
+        <item>607</item> <!-- Etihad prefix -->
+        <item>232</item> <!-- Malaysian prefix -->
+        <item>081</item> <!-- Qantas prefix -->
+        <item>235</item> <!-- Turkish prefix -->
+        <item>001</item> <!-- American prefix -->
+        <item>083</item> <!-- SouthAfrican prefix -->
+    </string-array>
+
+    <string-array name="airlines">
+        <item>Air Asia</item>
+        <item>Cathay Pacific Airways</item>
+        <item>Thai Airways</item>
+        <item>Etihad Crystal Airways</item>
+        <item>Malaysia Airlines</item>
+        <item>Qantas Airways</item>
+        <item>Turkish Airlines</item>
+        <item>American Airlines</item>
+        <item>South Africa Airways</item>
+    </string-array>
+    <string name="title_activity_login_register">Sign In</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="processing">Processing</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="try_again">Try Again</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_my_booking">MyBookingActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_tracking">TrackingActivity</string>
+    <string name="title_activity_view_booking">ViewBookingActivity</string>
+    <string name="before_tracking_text">Ketikkan airwaybill anda di kolom pencarian</string>
+    <string name="tracking_not_found">Pencarian tidak ditemukan</string>
+
+    <string name="about_us_url">http://detatocargo.com/index.php/about-us</string>
+    <string name="contact_us_url">http://detatocargo.com/index.php/contactus</string>
+    <string name="title_activity_tracking_history">TrackingHistoryActivity</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="delete_history">Delete History</string>
+</resources>
